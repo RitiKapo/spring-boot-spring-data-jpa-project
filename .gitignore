@@ -25,6 +25,7 @@ replay_pid*
 
 # OS generated file
 **/.DS_Store
+**/.DS_Store?
 
 # intellij
 .idea/
